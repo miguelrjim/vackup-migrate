@@ -1,0 +1,23 @@
+{
+  "name": "docker-volumes-migrate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/download": "^8.0.3",
+    "@types/ssh2": "^1.11.14",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "download": "^8.0.0",
+    "node-ssh": "^13.1.0",
+    "ssh2-config": "^0.1.0",
+    "tempy": "^3.1.0"
+  }
+}
